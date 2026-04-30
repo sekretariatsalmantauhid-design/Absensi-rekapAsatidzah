@@ -1,5 +1,5 @@
 // UBAH ANGKA INI SETIAP KALI BOS UPDATE index.html (Misal: v2, v3, v4)
-const CACHE_NAME = 'absen-harian-lite-v3'; 
+const CACHE_NAME = 'absen-harian-Master-v1'; 
 
 const urlsToCache = [
   './index.html',
