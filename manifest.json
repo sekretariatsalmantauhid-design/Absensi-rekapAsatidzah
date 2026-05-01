@@ -2,7 +2,8 @@
   "name": "Sistem Rekap Asatidzah",
   "short_name": "Rekap Guru",
   "description": "Aplikasi Web Rekap Kehadiran dan JP Guru",
-  "start_url": "./Absensi-rekapAsatidzah/.html",
+  "start_url": "/Absensi-rekapAsatidzah/",
+  "scope": "/Absensi-rekapAsatidzah/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#10b981",
@@ -11,11 +12,13 @@
       "src": "icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
+      "purpose": "any maskable"
     },
     {
       "src": "icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
+      "purpose": "any maskable"
     }
   ]
 }
